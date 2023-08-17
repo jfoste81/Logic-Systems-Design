@@ -1,0 +1,24 @@
+entity L01_circuit2 is
+    Port ( A : in STD_LOGIC;
+           B : in STD_LOGIC;
+           C : in STD_LOGIC;
+           D : in STD_LOGIC;
+           E : in STD_LOGIC;
+           Y : out STD_LOGIC);
+end L01_circuit2;
+
+architecture Behavioral of L01_circuit2 is
+
+signal s1 : STD_LOGIC;
+signal s2 : STD_LOGIC;
+signal s3 : STD_LOGIC;
+
+begin
+
+s1 <= A NAND B;
+s2 <= C NAND D;
+s3 <= s1 NAND s2;
+Y <= E NAND s3;
+
+
+end Behavioral;
