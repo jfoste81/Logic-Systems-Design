@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Thu Apr 27 23:32:44 2023
+# Process ID: 5384
+# Current directory: C:/Users/Joshua/Documents/uncc work/spring23/ecgr2181/Lab03
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent14712 C:\Users\Joshua\Documents\uncc work\spring23\ecgr2181\Lab03\Lab03.xpr
+# Log file: C:/Users/Joshua/Documents/uncc work/spring23/ecgr2181/Lab03/vivado.log
+# Journal file: C:/Users/Joshua/Documents/uncc work/spring23/ecgr2181/Lab03\vivado.jou
+# Running On: DESKTOP-N951QE1, OS: Windows, CPU Frequency: 3700 MHz, CPU Physical cores: 12, Host memory: 17079 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/Joshua/Documents/uncc work/spring23/ecgr2181/Lab03/Lab03.xpr}
+update_compile_order -fileset sources_1
+
