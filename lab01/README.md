@@ -1,5 +1,7 @@
 # Combinational Circuits
 
+This lab serves as an introduction to building combinational circuits in VHDL
+
 ### Part 1 builds the circuit 
 
 ![lab01_part1](https://github.com/jfoste81/Logic-Systems-Design/assets/89810865/75a25f62-f838-438d-9ee3-9443b269b070)
